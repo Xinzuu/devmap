@@ -4,4 +4,10 @@ show managed::
 1. file.txt
 2.main.txt
 3.close.txt
-
+====================================
+User: main.filetxt
+add: main.group
+user.group= main.txt
+-------------------------------------
+file$
+init=f*gim
