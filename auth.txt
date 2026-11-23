@@ -6,7 +6,7 @@ show managed::
 3.close.txt
 ====================================
 User: main.filetxt
-body: main.group
+boy: main.group
 user.group= main.txt
 -------------------------------------
 file$
