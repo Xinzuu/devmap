@@ -1,0 +1,7 @@
+[colse input]
+cear ++
+show managed::
+1. file.txt
+2.main.txt
+3.close.txt
+
